@@ -13,7 +13,7 @@ tiles/edsebk_isbns_files
 tiles/gbooks_isbns.dzi
 # tiles/gbooks_isbns_files
 tiles/goodreads_isbns.dzi
-tiles/goodreads_isbns_files
+# tiles/goodreads_isbns_files
 tiles/ia_isbns.dzi
 tiles/ia_isbns_files
 tiles/isbndb_isbns.dzi
@@ -31,7 +31,7 @@ tiles/nexusstc_isbns_files
 tiles/oclc_isbns.dzi
 tiles/oclc_isbns_files
 tiles/ol_isbns.dzi
-tiles/ol_isbns_files
+# tiles/ol_isbns_files
 tiles/rgb_isbns.dzi
 tiles/rgb_isbns_files
 tiles/trantor_isbns.dzi
