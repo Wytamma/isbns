@@ -1,0 +1,38 @@
+annas-archive
+image-tile
+tiles/all_isbns.dzi
+# tiles/all_isbns_files
+tiles/cadal_ssno_isbns.dzi
+tiles/cadal_ssno_isbns_files
+tiles/cerlalc_isbns.dzi
+tiles/cerlalc_isbns_files
+tiles/duxiu_ssid_isbns.dzi
+tiles/duxiu_ssid_isbns_files
+tiles/edsebk_isbns.dzi
+tiles/edsebk_isbns_files
+tiles/gbooks_isbns.dzi
+# tiles/gbooks_isbns_files
+tiles/goodreads_isbns.dzi
+tiles/goodreads_isbns_files
+tiles/ia_isbns.dzi
+tiles/ia_isbns_files
+tiles/isbndb_isbns.dzi
+tiles/isbndb_isbns_files
+tiles/isbngrp_isbns.dzi
+tiles/isbngrp_isbns_files
+tiles/libby_isbns.dzi
+tiles/libby_isbns_files
+tiles/md5_isbns.dzi
+# tiles/md5_isbns_files
+tiles/nexusstc_download_isbns.dzi
+tiles/nexusstc_download_isbns_files
+tiles/nexusstc_isbns.dzi
+tiles/nexusstc_isbns_files
+tiles/oclc_isbns.dzi
+tiles/oclc_isbns_files
+tiles/ol_isbns.dzi
+tiles/ol_isbns_files
+tiles/rgb_isbns.dzi
+tiles/rgb_isbns_files
+tiles/trantor_isbns.dzi
+tiles/trantor_isbns_files
